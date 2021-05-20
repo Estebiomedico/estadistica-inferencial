@@ -10,7 +10,7 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 4. Contrastes de hipétesis
 5. Bondad de ajuste
 6. Bondad de independencia y homogeneidad
-7. AnÃ¡lisis de la varianza
+7. Análisis de la varianza
 8. Regresión lineal
 9. Clustering
 
