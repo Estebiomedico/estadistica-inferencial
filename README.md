@@ -4,7 +4,7 @@ Consulta el curso completo de estadística creado por Ricardo Alberich, Juan Gabr
 
 Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido de estadítica inferencial del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
 
-1. Muestreo estadístico
+1. Muestreo estadístico.
 2. Estimación puntual
 3. Intervalos de confianza
 4. Contrastes de hipétesis
